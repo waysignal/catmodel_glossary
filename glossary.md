@@ -8,10 +8,6 @@ a bundle of events possible to be simulated
 can be sized at different times (10,000 or 50,000)
 ##### catastrophe 
 an event that exceeds one or more of a number of metrics that define losses
-##### Loss Exceedence Curve (or Exceedence probability curve), EP(x)
-this is the output of a Loss Exceedence Chart. It plots on the y-axis the probability and on the x-axis, the loss exposure or a loss random variable . A point at ($100, 50%) means there is a 50pc chance that there will be a loss of $100 or greater.
-+ up and to the right has the probability on the x axis and loss on y, invert the probability to get the return period
-+ down and to the right has the probability on the y axis and loss on the x
 ##### Damage ratios 
 the estimated repair cost as a fraction of the replacement cost of the building (i.e. insurance exposure or sum insured)
 repair : replace
@@ -35,6 +31,10 @@ the loss to insurer after limits, deductibles and co-insurance are applied. befo
 ##### Ground up loss (GUL)
 total loss before the application of any (re)insurance financial structures
 used for model validation, and comparing to Gross loss to see the effect of modeled financial structures (limits, deductibles)
+##### Loss Exceedence Curve (or Exceedence probability curve), EP(x)
+this is the output of a Loss Exceedence Chart. It plots on the y-axis the probability and on the x-axis, the loss exposure or a loss random variable . A point at ($100, 50%) means there is a 50pc chance that there will be a loss of $100 or greater.
++ up and to the right has the probability on the x axis and loss on y, invert the probability to get the return period
++ down and to the right has the probability on the y axis and loss on the x
 ##### Net pre-cat
 gross loss + facultative and per risk reinsurance applied; before catastrophe treaties
 ##### Occurrence Exceedance Probability (OEP) 
