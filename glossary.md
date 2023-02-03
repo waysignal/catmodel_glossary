@@ -49,3 +49,25 @@ can also be the inverse of the AEP
 ##### Vunerabilty function
 mean damage ratio as a function of intensity 
 the distribution of the damage ratio can also be shown on this chart
+##### Value at risk (VaR)
+a single value from a loss distribution. can have an associated EP. the minimum aggregate loss in a given year for a given probability
+##### Underwriting pools
+sharing all risks among a group of insurance companies
+##### Tail value at risk (TVaR)
+represents the how much losses could be once a threshold has been met. threshold is a EP
+##### Total insured value
+maximum payout for a total loss
+##### Sublimit
+subset of the limit. earmarked for specified losses.
+##### Step policies
+cost of insurance increases incrementally (time or trigger events). used to make up for the gap between the incident date and claim file date. there is a mature year that represents something like the statute of limitations.
+##### Resinsurance recoverables
+insurance for insurers. includes the amount owed to the insurer by the reinsurer for claims. considered an asset on the insurers balance sheet
+##### Risk excess of loss
+type of reinsurance given to an insurer to protect against a single loss or risk incurred at a specific amount.
+ceding insurer will only cover up to $5 but the loss is $1000000
+##### Modifiers
+characteristics used to seperate vunerability into categories. (e.g. building height, construction code, occupancy code)
+##### Solvency
+the ability to pay. Insurance companies keep solvency margins
+Insured < Primary insurer < Reinsurance < Retrocession
