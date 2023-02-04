@@ -60,7 +60,9 @@ maximum payout for a total loss
 ##### Sublimit
 subset of the limit. earmarked for specified losses.
 ##### Step policies
-cost of insurance increases incrementally (time or trigger events). used to make up for the gap between the incident date and claim file date. there is a mature year that represents something like the statute of limitations.
+cost of insurance increases incrementally (time or trigger events). used to make up for the gap between the incident date and claim file date. there is a mature year that represents something like the statute of limitations. (lawyer and practicing insurance)
+##### Retrocedent
+the ceding company between two insurers. the opposing party to the retrocessionaire
 ##### Resinsurance recoverables
 insurance for insurers. includes the amount owed to the insurer by the reinsurer for claims. considered an asset on the insurers balance sheet
 ##### Risk excess of loss
@@ -71,3 +73,4 @@ characteristics used to seperate vunerability into categories. (e.g. building he
 ##### Solvency
 the ability to pay. Insurance companies keep solvency margins
 Insured < Primary insurer < Reinsurance < Retrocession
+Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
