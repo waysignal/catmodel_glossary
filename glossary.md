@@ -25,7 +25,7 @@ rebuilt cost = overspill(policyholder responsibility) + limit (insurer responsib
 sublimit = master limit that applies only to a subset of the exposures
 Group Rollup > Portfolios > Policies > Locations
 ##### Hazard
-the resulting danger from a peril
+the resulting danger from a peril (exposed wiring after an EQ)
 ##### Gross loss
 the loss to insurer after limits, deductibles and co-insurance are applied. before reinsurance
 ##### Ground up loss (GUL)
@@ -74,3 +74,10 @@ characteristics used to seperate vunerability into categories. (e.g. building he
 the ability to pay. Insurance companies keep solvency margins
 Insured < Primary insurer < Reinsurance < Retrocession
 Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
+insureres do not prefer high deductible policies
+##### Policy caps, exclusions
+increases retention for the cedant
+##### Subrogation
+the transfer of loss recovery rights between cedant to insurer
+##### Manuscript policy
+customization of standard coverage
