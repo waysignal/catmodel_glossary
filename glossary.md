@@ -72,12 +72,19 @@ ceding insurer will only cover up to $5 but the loss is $1000000
 characteristics used to seperate vunerability into categories. (e.g. building height, construction code, occupancy code)
 ##### Solvency
 the ability to pay. Insurance companies keep solvency margins
-Insured < Primary insurer < Reinsurance < Retrocession
-Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
-insureres do not prefer high deductible policies
 ##### Policy caps, exclusions
 increases retention for the cedant
 ##### Subrogation
 the transfer of loss recovery rights between cedant to insurer
 ##### Manuscript policy
 customization of standard coverage
+##### Loss-sensitive contracts
+premiums depend on loss. the loss typically happens first before determining premium
+##### Experience-rated policy
+premiums depend on cedant's past loss history (moral hazard)
+
+
++ Insured < Primary insurer < Reinsurance < Retrocession
++ Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
++ insureres do not prefer high deductible policies
++ there are mechanisms to transform a full insurance contract to a partial insurance one
