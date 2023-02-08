@@ -82,6 +82,12 @@ customization of standard coverage
 premiums depend on loss. the loss typically happens first before determining premium
 ##### Experience-rated policy
 premiums depend on cedant's past loss history (moral hazard)
+##### Paid loss retrospective policy (RRP)
+the premium is adjusted based on the amount paid out (looks at cash flow to determine what needs to be paid), this is due when the insurer idemifies
+##### Incurred loss retrospective policy (RRP)
+the incremental premium is due in the year when the insurer has the best estimate of losses
+##### Investment credit program (ICP)
+cedant's funds are placed into a trust account that has a minimum balance required. builds with interest, non-taxable. has insurance tax-benefits. no collateral required.
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
