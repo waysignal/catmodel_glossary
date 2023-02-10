@@ -87,10 +87,13 @@ the premium is adjusted based on the amount paid out (looks at cash flow to dete
 ##### Incurred loss retrospective policy (RRP)
 the incremental premium is due in the year when the insurer has the best estimate of losses
 ##### Investment credit program (ICP)
-cedant's funds are placed into a trust account that has a minimum balance required. builds with interest, non-taxable. has insurance tax-benefits. no collateral required.
+cedant's funds are placed into a trust account that has a minimum balance required. builds with interest, non-taxable. has insurance tax-benefits. no collateral required. cedant gets interest income
+##### Finite risk programs
+for companies that are interested in a DIY approach. it's purpose is to ensure predictable cash flow. has to be considered a multi-year program. (debt capacity, lower cost of capital, may have tax benefits)
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
 + there are mechanisms to transform a full insurance contract to a partial insurance one
++ insurance market harden = low exposure transfer products are competitively priced compared to full insurance
