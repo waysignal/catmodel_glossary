@@ -90,6 +90,9 @@ the incremental premium is due in the year when the insurer has the best estimat
 cedant's funds are placed into a trust account that has a minimum balance required. builds with interest, non-taxable. has insurance tax-benefits. no collateral required. cedant gets interest income
 ##### Finite risk programs
 for companies that are interested in a DIY approach. it's purpose is to ensure predictable cash flow. has to be considered a multi-year program. (debt capacity, lower cost of capital, may have tax benefits)
+premiums deposits into an account like an ICP (is ICP a finite risk program?)
+##### Loss portfolio transfer
+unclaimed losses (they exist) are put into a portfolio. this is ceding the potential of claim settlements. the unpredictability of when the claims will be settled
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
