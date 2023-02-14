@@ -95,7 +95,8 @@ premiums deposits into an account like an ICP (is ICP a finite risk program?)
 unclaimed losses (they exist) are put into a portfolio. this is ceding the potential of claim settlements. the unpredictability of when the claims will be settled. shifting the timing risk. pays insurer the fee, premium, pv of net reserves for existing portfolio liabilities
 ##### Adverse development cover
 like the LPT in that it shifts the timing of losses(not the timing risk). additionally includes losses that have happened but not yet reported, unlike LPT which doesnt. there is no liability/claim reserves  transfer. therefore if losses exceed what the cedant has already reserved then a premium will be paid to the insurer for insurer to cover. more underwriting risk
-
+##### Retrospective aggregate loss cover
+in the middle between LPT and ADC, cedant pays for losses with a fixed payment equal to the value of the reserves and cedes liabilities to the insurer. insurer will cover up to a certain amount before cedant has to pay again.
 
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
