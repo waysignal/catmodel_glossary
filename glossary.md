@@ -92,7 +92,9 @@ cedant's funds are placed into a trust account that has a minimum balance requir
 for companies that are interested in a DIY approach. it's purpose is to ensure predictable cash flow. has to be considered a multi-year program. (debt capacity, lower cost of capital, may have tax benefits)
 premiums deposits into an account like an ICP (is ICP a finite risk program?)
 ##### Loss portfolio transfer
-unclaimed losses (they exist) are put into a portfolio. this is ceding the potential of claim settlements. the unpredictability of when the claims will be settled
+unclaimed losses (they exist) are put into a portfolio. this is ceding the potential of claim settlements. the unpredictability of when the claims will be settled. shifting the timing risk. pays insurer the fee, premium, pv of net reserves for existing portfolio liabilities
+##### Adverse development cover
+like the LPT in that it shifts the timing of losses(not the timing risk). additionally includes losses that have happened but not yet reported, unlike LPT which doesnt. there is no liability/claim reserves  transfer. therefore if losses exceed what the cedant has already reserved then a premium will be paid to the insurer for insurer to cover. more underwriting risk
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
