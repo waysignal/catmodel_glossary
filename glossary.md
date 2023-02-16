@@ -92,14 +92,29 @@ cedant's funds are placed into a trust account that has a minimum balance requir
 for companies that are interested in a DIY approach. it's purpose is to ensure predictable cash flow. has to be considered a multi-year program. (debt capacity, lower cost of capital, may have tax benefits)
 premiums deposits into an account like an ICP (is ICP a finite risk program?)
 ##### Loss portfolio transfer
-unclaimed losses (they exist) are put into a portfolio. this is ceding the potential of claim settlements. the unpredictability of when the claims will be settled. shifting the timing risk. pays insurer the fee, premium, pv of net reserves for existing portfolio liabilities
+unclaimed losses (they exist) are put into a portfolio. this is ceding the potential of claim settlements. the unpredictability of when the claims will be settled. shifting the timing risk. pays insurer the fee, premium, pv of net reserves for existing portfolio liabilities. handing it all over (cedant)
 ##### Adverse development cover
-like the LPT in that it shifts the timing of losses(not the timing risk). additionally includes losses that have happened but not yet reported, unlike LPT which doesnt. there is no liability/claim reserves  transfer. therefore if losses exceed what the cedant has already reserved then a premium will be paid to the insurer for insurer to cover. more underwriting risk
+like the LPT in that it shifts the timing of losses(not the timing risk). additionally includes losses that have happened but not yet reported, unlike LPT which doesnt. there is no liability/claim reserves  transfer. therefore if losses exceed what the cedant has already reserved then a premium will be paid to the insurer for insurer to cover. more underwriting risk. only spot me if i do not want to cover (cedant)
 ##### Retrospective aggregate loss cover
-in the middle between LPT and ADC, cedant pays for losses with a fixed payment equal to the value of the reserves and cedes liabilities to the insurer. insurer will cover up to a certain amount before cedant has to pay again.
+in the middle between LPT and ADC, cedant pays for losses with a fixed payment equal to the value of the reserves and cedes liabilities to the insurer. insurer will cover up to a certain amount before cedant has to pay again. i will cover up to this much, more and youd have to pay (insurer)
+##### Large line capacity
+a policy is this if it has as a large loss exposure
+##### Premium capacity
+lots of policies on the same line of cover(? same thing that is covered, eg only car windows up to 300)
+##### Facultative resinsurance
+involves case by case review for any resinsurance transaction. the facultative contract agreement does not place either party under obligation, obligation will be handled under a different contract.
+##### Treaty resinsurance
+a contract where risks that fall under pre-agreed guidelines are automatically ceded and accepted
+
+
+
 
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
 + there are mechanisms to transform a full insurance contract to a partial insurance one
 + insurance market harden = low exposure transfer products are competitively priced compared to full insurance
++ insurance attaches at price, can be layered
++ ceding commission in exchange for pass through of premium
++ reinsurance allows for a reduction in unearned premium reserves which increases the insurer's capital position
++ (facultative contract on proportional|excess basis)(probable maximum loss, maximum foreseeable loss)
