@@ -105,7 +105,9 @@ lots of policies on the same line of cover(? same thing that is covered, eg only
 involves case by case review for any resinsurance transaction. the facultative contract agreement does not place either party under obligation, obligation will be handled under a different contract.
 ##### Treaty resinsurance
 a contract where risks that fall under pre-agreed guidelines are automatically ceded and accepted
-
+##### Proportional agreements
+e.g. quota shares and surplus share arrangements
+quota share is on fixed percentage of policy limit basis. the retrocedant reduces its unearned premium reserves and gains in surplus (from retrocessionaire) through a commission; is surpluse bc reduction is larger than commission. insurer does not have to keep as much capital reserved.
 
 
 
