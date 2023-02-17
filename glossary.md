@@ -107,8 +107,15 @@ involves case by case review for any resinsurance transaction. the facultative c
 a contract where risks that fall under pre-agreed guidelines are automatically ceded and accepted
 ##### Proportional agreements
 e.g. quota shares and surplus share arrangements
-quota share is on fixed percentage of policy limit basis. the retrocedant reduces its unearned premium reserves and gains in surplus (from retrocessionaire) through a commission; is surpluse bc reduction is larger than commission. insurer does not have to keep as much capital reserved.
-
++ quota share is on fixed percentage of policy limit basis. the retrocedant reduces its unearned premium reserves and gains in surplus (from retrocessionaire) through a commission; is surplus bc reduction is larger than commission. insurer does not have to keep as much capital reserved.  ;; reinsurance pools are similiar but with the difference that if a member has a loss excess of a determined amount then the other pool members will share the balance
++ surplus share is on a variable percentage of policy limit basis, above the retrocedants rentention limit and up to a maximum. fractional sharing begins when the percentage is exceeded
+##### XOL
+catastrophe per occurence XOL(deductible, coinsurance), property per risk XOL(excess, retention), stop loss XOL(excess, ratio/dollar), aggregate XOL
+##### Finite reinsurance
++ spread loss: cedant pays premiums into an experience account over a multiyear period. any losses will be paid out from this account. if there is a surplus at eoy then it is profit shared by cedant and reinsurer; excess returned to cedant. the reinsurer pays the losses discretely while the cedant pays continously. reinsurer pre-funds the losses
++ finite quota share: reinsurer pays for a fixed or variable proportion of the claims, LAEs as they occur (thus prospective cover), reinsurer will fund any shortfall and recoup over lifetime of agreement. ceding commission and reserve income typically cover the cedant's share of the losses
+######  Expected value
+sumproduct of x_i and p_i, if x_i represents losses then it is expected loss
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
@@ -120,3 +127,8 @@ quota share is on fixed percentage of policy limit basis. the retrocedant reduce
 + ceding commission in exchange for pass through of premium
 + reinsurance allows for a reduction in unearned premium reserves which increases the insurer's capital position
 + (facultative contract on proportional|excess basis)(probable maximum loss, maximum foreseeable loss)
++ 10m xol 5m (based on actual claims recieved)
++ layering can be horizontal or vertical, different reinsurers have different risk expertise
++ regression analysis is using historical data to determine the relationship between dependent and independent variables
++ probability analysis is focused on events and the dependence/interdependence characteristics of each
++ risk adverse firms want to move pay to move towards the concave utility function curve
