@@ -116,6 +116,10 @@ catastrophe per occurence XOL(deductible, coinsurance), property per risk XOL(ex
 + finite quota share: reinsurer pays for a fixed or variable proportion of the claims, LAEs as they occur (thus prospective cover), reinsurer will fund any shortfall and recoup over lifetime of agreement. ceding commission and reserve income typically cover the cedant's share of the losses
 ######  Expected value
 sumproduct of x_i and p_i, if x_i represents losses then it is expected loss
+##### Efficient frontier
+boundary that provides the maximum possible return for a given risk
+##### Basis risk
+risk arising from the imperfections found in derviative market reference choice. a contract with this is cheaper because the hedger is covering extra risk without additional premium
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
@@ -132,3 +136,5 @@ sumproduct of x_i and p_i, if x_i represents losses then it is expected loss
 + regression analysis is using historical data to determine the relationship between dependent and independent variables
 + probability analysis is focused on events and the dependence/interdependence characteristics of each
 + risk adverse firms want to move pay to move towards the concave utility function curve
++ idemnity contract is for actual losses and valued contract is for specific amount
++ pooling lowers the standard deviation bc participants share risks, correlation affects the risk reduction quality
