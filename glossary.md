@@ -138,3 +138,5 @@ risk arising from the imperfections found in derviative market reference choice.
 + risk adverse firms want to move pay to move towards the concave utility function curve
 + idemnity contract is for actual losses and valued contract is for specific amount
 + pooling lowers the standard deviation bc participants share risks, correlation affects the risk reduction quality
++ r(p) r(f)
++ exante pre, expost post
