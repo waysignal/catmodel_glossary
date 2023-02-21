@@ -137,6 +137,10 @@ risk arising from the imperfections found in derviative market reference choice.
 + probability analysis is focused on events and the dependence/interdependence characteristics of each
 + risk adverse firms want to move pay to move towards the concave utility function curve
 + idemnity contract is for actual losses and valued contract is for specific amount
-+ pooling lowers the standard deviation bc participants share risks, correlation affects the risk reduction quality
++ pooling lowers the standard deviation bc participants share risks, correlation affects the risk reduction quality. diversify is creating independent risk units
 + r(p) r(f)
 + exante pre, expost post
++ "ly, the risk transfer/hedging markets can increase the available pools
+    of unsystematic risk and promote greater financial stability by diffusing exposures; there is
+    sufficient evidence to suggest that such mechanisms are quite resilient in the face of dislocation"
++ Passive rentention is from the system itself, active rentention is a conscious choice to hold onto the risk. Firms can choose to actively hold onto risks when risks can be predictable. Predicatability is an important factor when viewing a company's CF. It allows for accurate forecasting of business activities. Funding of these risks can be done pre or post loss and can be sourced internally or externally.
