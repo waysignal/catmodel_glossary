@@ -120,6 +120,8 @@ sumproduct of x_i and p_i, if x_i represents losses then it is expected loss
 boundary that provides the maximum possible return for a given risk
 ##### Basis risk
 risk arising from the imperfections found in derviative market reference choice. a contract with this is cheaper because the hedger is covering extra risk without additional premium
+##### Rate on the line
+amount of coverage provided | premium paid ; premium can be determined by dividing rate on the line by the actuarial probability of loss(minus 1) == 0 is actuarially fair (pure premium).
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
@@ -144,3 +146,5 @@ risk arising from the imperfections found in derviative market reference choice.
     of unsystematic risk and promote greater financial stability by diffusing exposures; there is
     sufficient evidence to suggest that such mechanisms are quite resilient in the face of dislocation"
 + Passive rentention is from the system itself, active rentention is a conscious choice to hold onto the risk. Firms can choose to actively hold onto risks when risks can be predictable. Predicatability is an important factor when viewing a company's CF. It allows for accurate forecasting of business activities. Funding of these risks can be done pre or post loss and can be sourced internally or externally.
++ insurance can go to alternative market, the reverse is not proven
++ There is a balance on how accurate a forecasted loss should be. This is because it becomes expensive as accuracy goes up, which reduces competitiveness in the market. The premium loading is the portion that is adjusted to ensure a appropriate profit margin. These premiums can be adjusted based on schedule or experience ratings. 
