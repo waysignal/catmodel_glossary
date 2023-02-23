@@ -122,6 +122,10 @@ boundary that provides the maximum possible return for a given risk
 risk arising from the imperfections found in derviative market reference choice. a contract with this is cheaper because the hedger is covering extra risk without additional premium
 ##### Rate on the line
 amount of coverage provided | premium paid ; premium can be determined by dividing rate on the line by the actuarial probability of loss(minus 1) == 0 is actuarially fair (pure premium).
+##### Clash loss
+when various insurance lines are impacted by claims simultaneously
+##### Combined ratio
+paid out / premiums
 
 
 + Insured < Primary insurer < Reinsurance < Retrocession
@@ -148,3 +152,5 @@ amount of coverage provided | premium paid ; premium can be determined by dividi
 + Passive rentention is from the system itself, active rentention is a conscious choice to hold onto the risk. Firms can choose to actively hold onto risks when risks can be predictable. Predicatability is an important factor when viewing a company's CF. It allows for accurate forecasting of business activities. Funding of these risks can be done pre or post loss and can be sourced internally or externally.
 + insurance can go to alternative market, the reverse is not proven
 + There is a balance on how accurate a forecasted loss should be. This is because it becomes expensive as accuracy goes up, which reduces competitiveness in the market. The premium loading is the portion that is adjusted to ensure a appropriate profit margin. These premiums can be adjusted based on schedule or experience ratings. 
++ investment returns can cushion a high combined ratio
++ The two simple parts of the insurance market cycle are labeled hard and soft. Soft is when there is excess supply of risk capacity, it follows that hard is then the limited supply of risk capacity. The hard market may be lucrative and will attract new compeititors. This will shift the market back into balance. Balance is important because it ensures the availability of loss-financing.
