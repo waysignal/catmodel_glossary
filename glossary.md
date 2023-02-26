@@ -126,7 +126,8 @@ amount of coverage provided | premium paid ; premium can be determined by dividi
 when various insurance lines are impacted by claims simultaneously
 ##### Combined ratio
 paid out / premiums
-
+##### Credit risk
+the risk of intermediaries in risk transfer, risk financing, or hedging solutions not fulfulling their obligations. ART products can reduce or eliminate credit risk
 
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
@@ -155,3 +156,5 @@ paid out / premiums
 + investment returns can cushion a high combined ratio
 + The two simple parts of the insurance market cycle are labeled hard and soft. Soft is when there is excess supply of risk capacity, it follows that hard is then the limited supply of risk capacity. The hard market may be lucrative and will attract new compeititors. This will shift the market back into balance. Balance is important because it ensures the availability of loss-financing.
 + Diversifiication is attractive, even in comparision to absolute return. ART markets can provide this. In hard times, investors might want to allocate capital to buckets that are shielded from other holdings. This provides risk capacity to insurers, which in turn reduces the uncertainty related to optimal cover at a certain price for the claimant. 
++ arranging risk exposure, assuming risk, managing risk
++ Intermediaries connect members together. This increased network can be helpful, however it does introduce credit risk. Agreements now have another party, the intermediary, that can default or not fulfill its obligations. Financial or ART mechanisms are available to mitigate this risk. The ART market is especially useful in directing risks to specific destinations, destinations that are primed to take on such risks.
