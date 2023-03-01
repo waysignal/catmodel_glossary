@@ -128,7 +128,8 @@ when various insurance lines are impacted by claims simultaneously
 paid out / premiums
 ##### Credit risk
 the risk of intermediaries in risk transfer, risk financing, or hedging solutions not fulfulling their obligations. ART products can reduce or eliminate credit risk
-
+##### Pure captives
+licensed (re)insurer that is wholly owned by a single sponser and writes solely for that sponser. The sponser captializes the captive with internal or external funds which are then invested into low-risk securities to generate returns. There can be multiple branches to accomodate for the sponser's subsidiaries. Related versions are senior captives(single owner, covers third parties), sister captives (part of economic family), group captives(mult owners, covers owners and unrelated third parties)
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
@@ -162,3 +163,4 @@ the risk of intermediaries in risk transfer, risk financing, or hedging solution
 + There are barriers in the form of regulations that limit certain types of businesses from occuring. As a result, companies create subsidaries to go around them. Certain types of companies are allowed and not allowed to do certain things. There is more of the not allowed to do things for insurers, while reinsurers have more freedom. This is due to the international and b2b nature of reinsurers. The opposite of regulation is deregulation. This leads to convergence which is when business activities are combined under a single participant. e.g. banks lending out capital and writing insurance under the same legal entity. 
 + A captive is like, if not, a finite program. It is an internal retention fund with its own corporate structure and organization. The owner/sponser sets up a captive to be an insurer and will pay this legal entity a premium for cover. The captive will insure the owner/sponser and pay interest/dividends. Regulations are in place to ensure reporting standards, capital/surplus levels, and investment restrictions. A Captive can also be a reinsurer if there is a fronting insurer involved, which is the case for international operations. Captives capture the cash flows that would otherwise be paid out in premiums to external insurers. 
 + open claims and losses incurred but not reported under any of the covers being managed result in tail risk
++ ". Loss coverage in the group structure is often set in proportion to the premiums paid by each individual sponsor, meaning that losses are not necessarily reduced, but expenses and cash flow risks are lowered."
