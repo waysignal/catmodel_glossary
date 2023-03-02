@@ -130,6 +130,10 @@ paid out / premiums
 the risk of intermediaries in risk transfer, risk financing, or hedging solutions not fulfulling their obligations. ART products can reduce or eliminate credit risk
 ##### Pure captives
 licensed (re)insurer that is wholly owned by a single sponser and writes solely for that sponser. The sponser captializes the captive with internal or external funds which are then invested into low-risk securities to generate returns. There can be multiple branches to accomodate for the sponser's subsidiaries. Related versions are senior captives(single owner, covers third parties), sister captives (part of economic family), group captives(mult owners, covers owners and unrelated third parties)
+##### Rent-a-captive
+RAC is a reinsurer that offers captive servies without direct ownership by sponsor/users. Accounts are established within the RAC to track premiums and risks. Risks are independent by contract and agreements, but assets can be commingled.
+##### Protected cell companies
+PCC are like RACs but the accounts are seperated by statute. There is a core and then the account cells. The thirdparty/ manager owns the core, the clients are contracted to a cell. The client pays for costs and equity provided by the core. Creditors can only access the assets of a cell.  
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
