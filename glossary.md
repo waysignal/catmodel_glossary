@@ -134,6 +134,9 @@ licensed (re)insurer that is wholly owned by a single sponser and writes solely 
 RAC is a reinsurer that offers captive servies without direct ownership by sponsor/users. Accounts are established within the RAC to track premiums and risks. Risks are independent by contract and agreements, but assets can be commingled.
 ##### Protected cell companies
 PCC are like RACs but the accounts are seperated by statute. There is a core and then the account cells. The thirdparty/ manager owns the core, the clients are contracted to a cell. The client pays for costs and equity provided by the core. Creditors can only access the assets of a cell.  
+##### Risk rentention groups
+conceptually similiar to group captives but will have different regulations governance. members are part of a community of interest, and are provided cover through self-funding or joint-purpose of third-party insurance. does not require fronting insurer. assuming and spreading the liability risks of members is done through retention or pooling. pools are usually either national or risk basis.
+
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
@@ -168,3 +171,5 @@ PCC are like RACs but the accounts are seperated by statute. There is a core and
 + A captive is like, if not, a finite program. It is an internal retention fund with its own corporate structure and organization. The owner/sponser sets up a captive to be an insurer and will pay this legal entity a premium for cover. The captive will insure the owner/sponser and pay interest/dividends. Regulations are in place to ensure reporting standards, capital/surplus levels, and investment restrictions. A Captive can also be a reinsurer if there is a fronting insurer involved, which is the case for international operations. Captives capture the cash flows that would otherwise be paid out in premiums to external insurers. 
 + open claims and losses incurred but not reported under any of the covers being managed result in tail risk
 + ". Loss coverage in the group structure is often set in proportion to the premiums paid by each individual sponsor, meaning that losses are not necessarily reduced, but expenses and cash flow risks are lowered."
++ bank -> mortgage insurer (primary) -> bank's reinsurance captive; -> premium, usually arranged by bank and then charged back to consumer
++ Insurance-based risk transfer have favorable tax treatment compared to rentention programs. Insurance companies can deduct the discounted value of incurred losses (?) while non-insurance can only deduct losses paid during the year. Deduction of premiums are worth more than the deduction of uninsured losses.
