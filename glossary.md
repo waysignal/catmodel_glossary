@@ -136,7 +136,8 @@ RAC is a reinsurer that offers captive servies without direct ownership by spons
 PCC are like RACs but the accounts are seperated by statute. There is a core and then the account cells. The thirdparty/ manager owns the core, the clients are contracted to a cell. The client pays for costs and equity provided by the core. Creditors can only access the assets of a cell.  
 ##### Risk rentention groups
 conceptually similiar to group captives but will have different regulations governance. members are part of a community of interest, and are provided cover through self-funding or joint-purpose of third-party insurance. does not require fronting insurer. assuming and spreading the liability risks of members is done through retention or pooling. pools are usually either national or risk basis.
-
+##### Multi-risk product
+instrument that combines various exposures into a single contract, can be multiple peril (multiple classes covered) or multiple trigger (activates if multiple events occur).
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
@@ -172,4 +173,5 @@ conceptually similiar to group captives but will have different regulations gove
 + open claims and losses incurred but not reported under any of the covers being managed result in tail risk
 + ". Loss coverage in the group structure is often set in proportion to the premiums paid by each individual sponsor, meaning that losses are not necessarily reduced, but expenses and cash flow risks are lowered."
 + bank -> mortgage insurer (primary) -> bank's reinsurance captive; -> premium, usually arranged by bank and then charged back to consumer
-+ Insurance-based risk transfer have favorable tax treatment compared to rentention programs. Insurance companies can deduct the discounted value of incurred losses (?) while non-insurance can only deduct losses paid during the year. Deduction of premiums are worth more than the deduction of uninsured losses.
++ Insurance-based risk transfer have favorable tax treatment compared to rentention programs. Insurance companies can deduct the discounted value of incurred losses (?) while non-insurance can only deduct losses paid during the year. Deduction of premiums are worth more than the deduction of uninsured losses. In the US, pure captives are required to write 30% of business from unrelated parties to qualify for tax benefits.
++ Multi-peril contracts benefits include lower transaction costs, lower premium, and less chance of overinsurance. There is lower premium because exposures included are often uncorrelated; kind of fuzzy. Underinsurance is guarded by reinstatement provisions which refresh the contracted limits.
