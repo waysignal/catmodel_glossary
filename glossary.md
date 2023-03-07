@@ -138,6 +138,8 @@ PCC are like RACs but the accounts are seperated by statute. There is a core and
 conceptually similiar to group captives but will have different regulations governance. members are part of a community of interest, and are provided cover through self-funding or joint-purpose of third-party insurance. does not require fronting insurer. assuming and spreading the liability risks of members is done through retention or pooling. pools are usually either national or risk basis.
 ##### Multi-risk product
 instrument that combines various exposures into a single contract, can be multiple peril (multiple classes covered) or multiple trigger (activates if multiple events occur).
+Multiple peril: multiline, commericial general liability, commercial umbrella
+Multiple trigger: dual, triple: fixed, variable, switching
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
@@ -176,3 +178,5 @@ instrument that combines various exposures into a single contract, can be multip
 + Insurance-based risk transfer have favorable tax treatment compared to rentention programs. Insurance companies can deduct the discounted value of incurred losses (?) while non-insurance can only deduct losses paid during the year. Deduction of premiums are worth more than the deduction of uninsured losses. In the US, pure captives are required to write 30% of business from unrelated parties to qualify for tax benefits.
 + Multi-peril contracts benefits include lower transaction costs, lower premium, and less chance of overinsurance. There is lower premium because exposures included are often uncorrelated; kind of fuzzy. Underinsurance is guarded by reinstatement provisions which refresh the contracted limits.
 + Mutiple-trigger contracts are a way to use derviatives but still have insurable interest benefits for financial and tax purposes. The triggers are usually one financial and one non-financial. The probability of both triggers occuring is low so this lowers the cost to the cedant. It also increases diversification for insurers.
++ attachment method is grouping monoline policies under a new master agreement. single text method is redrafting the monoline policies into one policy.
++ CGL policy is used to cover only liabilities. The umbrella policy is used as an excess layer facility and will generally be designed to pay o ut the ultimate net loss in excess of a retained limit. 
