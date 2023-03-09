@@ -140,6 +140,9 @@ conceptually similiar to group captives but will have different regulations gove
 instrument that combines various exposures into a single contract, can be multiple peril (multiple classes covered) or multiple trigger (activates if multiple events occur).
 Multiple peril: multiline, commericial general liability, commercial umbrella
 Multiple trigger: dual, triple: fixed, variable, switching
+##### Insurance linked securities
+notes and bonds based on insurance-related events. 
+(re)insurer issues securities through a SPE. investors purchases these securities to recieve repayment of interest and/or principal. the amount and schedule is based on defined insurance events. 
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
@@ -180,4 +183,5 @@ Multiple trigger: dual, triple: fixed, variable, switching
 + Mutiple-trigger contracts are a way to use derviatives but still have insurable interest benefits for financial and tax purposes. The triggers are usually one financial and one non-financial. The probability of both triggers occuring is low so this lowers the cost to the cedant. It also increases diversification for insurers.
 + attachment method is grouping monoline policies under a new master agreement. single text method is redrafting the monoline policies into one policy.
 + CGL policy is used to cover only liabilities. The umbrella policy is used as an excess layer facility and will generally be designed to pay o ut the ultimate net loss in excess of a retained limit. 
-+ CMO (MBS (residential mortgages)), ABS (asset); credit market: CLO and CBO both nder CDO. CDOs can be balance sheet/cash flow CDOs or synthetic/arbitrage CDOs. Balance sheet ones are based on assets physically held in a portfolio that is sold into the system. Synthetic CDOs are based on assets purchased and actively managed; can be funded through note issuance or unfunded with credit derviatives. Most send out funds through the cash flow method, where specific P&I are used to pay investors. 
++ CMO (MBS (residential mortgages)), ABS (asset); credit market: CLO and CBO both under CDO. CDOs can be balance sheet/cash flow CDOs or synthetic/arbitrage CDOs. Balance sheet ones are based on assets physically held in a portfolio that is sold into the system. Synthetic CDOs are based on assets purchased and actively managed; can be funded through note issuance or unfunded with credit derviatives. Most send out funds through the cash flow method, where specific P&I are used to pay investors by seniority. Assets/liabilities are removed from the balance sheet and risks are transferred to the investors.
++ "Note once again that, although aspects of credit risk fall underthe class of insurable risks, we consider the CDO market to be a separate financially driven marketplace and will not consider the structures in further detail." (?)
