@@ -143,6 +143,9 @@ Multiple trigger: dual, triple: fixed, variable, switching
 ##### Insurance linked securities
 notes and bonds based on insurance-related events. 
 (re)insurer issues securities through a SPE. investors purchases these securities to recieve repayment of interest and/or principal. the amount and schedule is based on defined insurance events. 
+more activity when there is a hard insurance market bc it becomes cost competitive
+##### Cat bonds
+special-purpose reinsurer (SPR). investors may not recieve interest and/or principal if a loss payout occurs
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
