@@ -145,7 +145,9 @@ notes and bonds based on insurance-related events.
 (re)insurer issues securities through a SPE. investors purchases these securities to recieve repayment of interest and/or principal. the amount and schedule is based on defined insurance events. 
 more activity when there is a hard insurance market bc it becomes cost competitive
 ##### Cat bonds
-special-purpose reinsurer (SPR). investors may not recieve interest and/or principal if a loss payout occurs
+special-purpose reinsurer (SPR). investors may not recieve interest and/or principal if a loss payout occurs; cedants prefer long loss periods to accumulate enough for payout threshhold, whereas investors want shorter periods bc they want to keep their principal/interest payout. 
+similar to the securities market with SPE
+cedant pays premium to the SPR which places it in a trust account to generate income. the SPR is funded by capital investors who expect P&I payments in exchange for risk exposure. 
 + Insured < Primary insurer < Reinsurance < Retrocession
 + Subject-matter < Direct Insurance < Reinsurer vs Subject-matter < Reinsurer  
 + insureres do not prefer high deductible policies
